@@ -1,0 +1,6 @@
+{
+  "name": "Sunshine Comforts - Luxury Bedding & Home Textiles",
+  "description": "Experience five-star hotel comfort at home with Sunshine Comforts UK. Premium Egyptian cotton bedding, plush mattress toppers, bounce-back pillows, and luxury home furnishings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
